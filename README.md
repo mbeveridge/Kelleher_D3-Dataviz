@@ -17,7 +17,7 @@ It will go every Saturday for a year or more
 
 ## Episodes
 
-#### 001 : "SVG Fundamentals" 2021-03-06
+#### 001 : "SVG Fundamentals" (2021-03-06)
 * video [[1:07:18 edited](https://www.youtube.com/watch?v=UQ_kqGDM8A4)]; [[1:26:20 raw (incl chat window)](https://www.youtube.com/watch?v=qaiS88ocS2M)]
 * What is [HTML](https://youtu.be/UQ_kqGDM8A4?t=477), [CSS](https://youtu.be/UQ_kqGDM8A4?t=641) and [SVG](https://youtu.be/UQ_kqGDM8A4?t=703)
 * "[Intro to VizHub](https://youtu.be/UQ_kqGDM8A4?t=1275)" ...[[https://vizhub.com/](https://vizhub.com/)]
@@ -26,6 +26,9 @@ It will go every Saturday for a year or more
 * ~~"[Title & Description in VizHub](https://youtu.be/UQ_kqGDM8A4?t=1781)"~~
 * "[Creating an SVG Element](https://youtu.be/UQ_kqGDM8A4?t=1844)" ...`<svg>...</svg>`
 * "[SVG Circles](https://youtu.be/UQ_kqGDM8A4?t=1924)"
+* "[Question: Tags vs. Elements?](https://youtu.be/UQ_kqGDM8A4?t=1999)"
+* "[Inspecting Elements with Chrome DevTools](https://youtu.be/UQ_kqGDM8A4?t=2115)"
+* "[Manual DOM Manipulation with DevTools](https://youtu.be/UQ_kqGDM8A4?t=2212)"
 
-#### 002 : "Pseudo Visualizations" 2021-03-13
+#### 002 : "Pseudo Visualizations" (2021-03-13)
 * video [[1:11:18 edited](https://www.youtube.com/watch?v=UunbNeXhhaU)]; [[1:37:20 raw](https://www.youtube.com/watch?v=f5mYd-ufank)]
