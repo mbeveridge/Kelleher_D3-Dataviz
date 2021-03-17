@@ -20,6 +20,8 @@ It will go every Saturday for a year or more
 #### 001 : "SVG Fundamentals" (2021-03-06)
 * video [[1:07:18 edited](https://www.youtube.com/watch?v=UQ_kqGDM8A4)]; [[1:26:20 raw (incl chat window)](https://www.youtube.com/watch?v=qaiS88ocS2M)]
 * What is [HTML](https://youtu.be/UQ_kqGDM8A4?t=477), [CSS](https://youtu.be/UQ_kqGDM8A4?t=641) and [SVG](https://youtu.be/UQ_kqGDM8A4?t=703)
+* ~~"[Question: Why does SVG exist?](https://youtu.be/UQ_kqGDM8A4?t=851)"~~
+* ~~"[Question: How does SVG relate to XML?](https://youtu.be/UQ_kqGDM8A4?t=985)"~~
 * "[Intro to VizHub](https://youtu.be/UQ_kqGDM8A4?t=1275)" ...[[https://vizhub.com/](https://vizhub.com/)]
 * ~~"[Bare Bones HTML Page](https://youtu.be/UQ_kqGDM8A4?t=1463)"~~
 * ~~"[Working with HTML Locally](https://youtu.be/UQ_kqGDM8A4?t=1668)"~~
@@ -42,6 +44,7 @@ It will go every Saturday for a year or more
 * "[SVG Lines](https://youtu.be/UQ_kqGDM8A4?t=2756)" ...`<line x1="0" y1="0" x2="100" y2="100" stroke="navy"></line>`
 * "[Question: Shapes beyond width and height (clipping)?](https://youtu.be/UQ_kqGDM8A4?t=2817)"
 * "[SVG clip path concept](https://youtu.be/UQ_kqGDM8A4?t=2925)"
+* "[Debugging invalid HTML (no self-closing tags allows)](https://youtu.be/UQ_kqGDM8A4?t=2951)"
 
 
 #### 002 : "Pseudo Visualizations" (2021-03-13)
