@@ -24,15 +24,25 @@ It will go every Saturday for a year or more
 * ~~"[Bare Bones HTML Page](https://youtu.be/UQ_kqGDM8A4?t=1463)"~~
 * ~~"[Working with HTML Locally](https://youtu.be/UQ_kqGDM8A4?t=1668)"~~
 * ~~"[Title & Description in VizHub](https://youtu.be/UQ_kqGDM8A4?t=1781)"~~
-* "[Creating an SVG Element](https://youtu.be/UQ_kqGDM8A4?t=1844)" ...`<svg>...</svg>`
+* "[Creating an SVG Element](https://youtu.be/UQ_kqGDM8A4?t=1844)" ...`<svg> ... </svg>`
 * "[SVG Circles](https://youtu.be/UQ_kqGDM8A4?t=1924)" ...`<circle cx="50" cy="50" r="50"></circle>`
 * "[Question: Tags vs. Elements?](https://youtu.be/UQ_kqGDM8A4?t=1999)"
 * "[Inspecting Elements with Chrome DevTools](https://youtu.be/UQ_kqGDM8A4?t=2115)"
 * "[Manual DOM Manipulation with DevTools](https://youtu.be/UQ_kqGDM8A4?t=2212)" ...cf. DOM manipulation by JavaScript (D3, React, Vue, Svelte, (JQuery ...the original))
 * "[Adding Collaborators in VizHub](https://youtu.be/UQ_kqGDM8A4?t=2344)"
-* "[The 'fill' attribute](https://youtu.be/UQ_kqGDM8A4?t=2407)"
+* "[The 'fill' attribute](https://youtu.be/UQ_kqGDM8A4?t=2407)" ...`fill="red"`
 * "[Using Prettier to auto-format code](https://youtu.be/UQ_kqGDM8A4?t=2431)"
-* "[The coordinate space of SVG](https://youtu.be/UQ_kqGDM8A4?t=2483)"
+* "[The coordinate space of SVG](https://youtu.be/UQ_kqGDM8A4?t=2483)" ...(0,0) is top-left
+* "[SVG Width and Height](https://youtu.be/UQ_kqGDM8A4?t=2546)" ...`<svg width="960" height="500">`
+* "[SVG Rectangles](https://youtu.be/UQ_kqGDM8A4?t=2599)" ...`<rect ... />`
+* "[Setting "fill" to "none"](https://youtu.be/UQ_kqGDM8A4?t=2626)"
+* "[The "stroke" attribute](https://youtu.be/UQ_kqGDM8A4?t=2636)"
+* "[The "stroke-width" attribute](https://youtu.be/UQ_kqGDM8A4?t=2655)"
+* "[Z Ordering (layering) in SVG](https://youtu.be/UQ_kqGDM8A4?t=2670)" ...depends on their order in the SVG document
+* "[SVG Lines](https://youtu.be/UQ_kqGDM8A4?t=2756)" ...`<line x1="0" y1="0" x2="100" y2="100" stroke="navy"></line>`
+* "[Question: Shapes beyond width and height (clipping)?](https://youtu.be/UQ_kqGDM8A4?t=2817)"
+* "[SVG clip path concept](https://youtu.be/UQ_kqGDM8A4?t=2925)"
+
 
 #### 002 : "Pseudo Visualizations" (2021-03-13)
 * video [[1:11:18 edited](https://www.youtube.com/watch?v=UunbNeXhhaU)]; [[1:37:20 raw](https://www.youtube.com/watch?v=f5mYd-ufank)]
