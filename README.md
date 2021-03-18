@@ -30,7 +30,7 @@ It will go every Saturday for a year or more
 * "[SVG Circles](https://youtu.be/UQ_kqGDM8A4?t=1924)" ...`<circle cx="50" cy="50" r="50"></circle>`
 * "[Question: Tags vs. Elements?](https://youtu.be/UQ_kqGDM8A4?t=1999)"
 * "[Inspecting Elements with Chrome DevTools](https://youtu.be/UQ_kqGDM8A4?t=2115)"
-* "[Manual DOM Manipulation with DevTools](https://youtu.be/UQ_kqGDM8A4?t=2212)" ...cf. DOM manipulation by JavaScript (D3, React, Vue, Svelte, (JQuery ...the original))
+* "[Manual DOM Manipulation with DevTools](https://youtu.be/UQ_kqGDM8A4?t=2212)" ...cf. JavaScript (D3, React, Vue, Svelte, JQuery) DOM manipulation
 * "[Adding Collaborators in VizHub](https://youtu.be/UQ_kqGDM8A4?t=2344)"
 * "[The 'fill' attribute](https://youtu.be/UQ_kqGDM8A4?t=2407)" ...`fill="red"`
 * "[Using Prettier to auto-format code](https://youtu.be/UQ_kqGDM8A4?t=2431)"
@@ -45,6 +45,12 @@ It will go every Saturday for a year or more
 * "[Question: Shapes beyond width and height (clipping)?](https://youtu.be/UQ_kqGDM8A4?t=2817)"
 * "[SVG clip path concept](https://youtu.be/UQ_kqGDM8A4?t=2925)"
 * "[Debugging invalid HTML (no self-closing tags allows)](https://youtu.be/UQ_kqGDM8A4?t=2951)"
+* ~~"[Question: Differences between SVG lies and SVG paths](https://youtu.be/UQ_kqGDM8A4?t=3093)"~~
+* "[SVG Paths and the "d" attribute](https://youtu.be/UQ_kqGDM8A4?t=3180)" ...`<path fill="none" d="M200,200L300,300L300,400" stroke="black" stroke-width=10"></path>` [M is move-to; L is line-to] [Path is used for line charts, area charts, geometries in maps (like countries), etc]
+* "[HTML Comments](https://youtu.be/UQ_kqGDM8A4?t=3395)" ...`<!--... -->`
+* "[Question: Can you make layers in SVG?](https://youtu.be/UQ_kqGDM8A4?t=3424)"
+* "[Question: Upper case vs. lower case in the "d" path attribute](https://youtu.be/UQ_kqGDM8A4?t=3476)"
+* "[Review of SVG path commands documentation](https://youtu.be/UQ_kqGDM8A4?t=3557)"
 
 
 #### 002 : "Pseudo Visualizations" (2021-03-13)
