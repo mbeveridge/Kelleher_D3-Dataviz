@@ -60,8 +60,11 @@ It will go every Saturday for a year or more
 * "[Question: How to communicate around this async? D3 Slack? VizHub Forum?](https://youtu.be/UQ_kqGDM8A4?t=3721)" ...[[VizHub Forum topics for this course](https://vizhub.com/forum/c/get-it-right/10)]
 * "[Exercise: Make something creative with SVG Shapes!](https://youtu.be/UQ_kqGDM8A4?t=3831)"
 
+--
 
 #### 002 : "Pseudo Visualizations" (2021-03-13)
-###### [_[forum](https://vizhub.com/forum/t/episode-1-svg-fundamentals/111)_] - [_slides_] - [_myWorkings_] - [_myExercise_]
+###### [_[forum](https://vizhub.com/forum/t/episode-2-pseudo-visualizations/138)_] - [_[slides (blocked)](https://docs.google.com/presentation/d/1QXHKfzkY6Qh-sy2iqxFS2_V-5KrmvwYumPTRG_YBgrs/)_] - [_myWorkings_] - [_myExercise_]
 
 ###### video [[1:11:18 edited](https://www.youtube.com/watch?v=UunbNeXhhaU)]; [[1:37:20 raw](https://www.youtube.com/watch?v=f5mYd-ufank)]
+
+* "[Expanded mental model of SVG](https://youtu.be/UunbNeXhhaU?t=89)"
