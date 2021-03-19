@@ -50,7 +50,9 @@ It will go every Saturday for a year or more
 * "[HTML Comments](https://youtu.be/UQ_kqGDM8A4?t=3395)" ...`<!--... -->`
 * "[Question: Can you make layers in SVG?](https://youtu.be/UQ_kqGDM8A4?t=3424)"
 * "[Question: Upper case vs. lower case in the "d" path attribute](https://youtu.be/UQ_kqGDM8A4?t=3476)"
-* "[Review of SVG path commands documentation](https://youtu.be/UQ_kqGDM8A4?t=3557)"
+* "[Review of SVG path commands documentation](https://youtu.be/UQ_kqGDM8A4?t=3557)" ...[[MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/d#path_commands)] ...but usually copy-paste from a tool
+* "[Absolute vs. relative coordinates in SVG paths](https://youtu.be/UQ_kqGDM8A4?t=3651)"
+* "[Question: How to communicate around this async? D3 Slack? VizHub Forum?](https://youtu.be/UQ_kqGDM8A4?t=3721)"
 
 
 #### 002 : "Pseudo Visualizations" (2021-03-13)
