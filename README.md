@@ -91,9 +91,9 @@ It will go every Saturday for a year or more
 * ~~[10:25​](https://youtu.be/UunbNeXhhaU?t=625) - Using classes with CSS~~
 * [11:11​](https://youtu.be/UunbNeXhhaU?t=671) - Question: Difference between id and class with CSS
 * [13:08​](https://youtu.be/UunbNeXhhaU?t=788) - Question: SVG as text?
-* [14:38​]() - Tags vs. Elements in Documents vs. Dom
-* [18:59​]() - Sunrise & sunset by Adil
-* [20:13​]() - Radial gradients
+* [14:38​](https://youtu.be/UunbNeXhhaU?t=878) - Tags vs. Elements in Documents vs. Dom
+* [18:59​](https://youtu.be/UunbNeXhhaU?t=1139) - Sunrise & sunset by Adil
+* [20:13​](https://youtu.be/UunbNeXhhaU?t=1213) - Radial gradients
 * [25:26​]() - Bezier curves
 * [27:56​]() - The animate tag in SVG
 * [29:35​]() - Using Figma
