@@ -25,9 +25,9 @@ It will go every Saturday for a year or more
 ###### video [[1:07:18 edited](https://www.youtube.com/watch?v=UQ_kqGDM8A4)]; [[1:26:20 raw (incl chat window)](https://www.youtube.com/watch?v=qaiS88ocS2M)]
 
 
-* 00:00​ - Intro to the course
-* 07:23​ - Intro to this episode
-* [07:57]((https://youtu.be/UQ_kqGDM8A4?t=477))​ - HTML
+* [00:00](https://youtu.be/UQ_kqGDM8A4?t=0)​ - Intro to the course
+* [07:23](https://youtu.be/UQ_kqGDM8A4?t=443)​ - Intro to this episode
+* [07:57](https://youtu.be/UQ_kqGDM8A4?t=477)​ - HTML
 * [10:41](https://youtu.be/UQ_kqGDM8A4?t=641)​ - CSS
 * [11:42​](https://youtu.be/UQ_kqGDM8A4?t=702) - SVG
 * ~~[14:11​](https://youtu.be/UQ_kqGDM8A4?t=851) - Question: Why does SVG exist?~~
@@ -81,9 +81,9 @@ It will go every Saturday for a year or more
 * [06:23​](https://youtu.be/UunbNeXhhaU?t=383) - Removing default margins and scrollbar with CSS ...`<style>body {margin: 0; overflow: hidden;}</style>`
 * ~~[08:02​](https://youtu.be/UunbNeXhhaU?t=482) - Review of more submissions~~
 * [08:19​](https://youtu.be/UunbNeXhhaU?t=499) - Setting the height in VizHub
-* [10:25​](https://youtu.be/UunbNeXhhaU?t=625) - Using classes with CSS
-* [11:11​]() - Question: Difference between id and class with CSS
-* [13:08​]() - Question: SVG as text?
+* ~~[10:25​](https://youtu.be/UunbNeXhhaU?t=625) - Using classes with CSS~~
+* [11:11​](https://youtu.be/UunbNeXhhaU?t=671) - Question: Difference between id and class with CSS
+* [13:08​](https://youtu.be/UunbNeXhhaU?t=788) - Question: SVG as text?
 * [14:38​]() - Tags vs. Elements in Documents vs. Dom
 * [18:59​]() - Sunrise & sunset by Adil
 * [20:13​]() - Radial gradients
