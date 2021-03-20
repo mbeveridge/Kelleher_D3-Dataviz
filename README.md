@@ -93,12 +93,12 @@ It will go every Saturday for a year or more
 * [13:08​](https://youtu.be/UunbNeXhhaU?t=788) - Question: SVG as text?
 * [14:38​](https://youtu.be/UunbNeXhhaU?t=878) - Tags vs. Elements in Documents vs. Dom
 * [18:59​](https://youtu.be/UunbNeXhhaU?t=1139) - Sunrise & sunset by Adil
-* [20:13​](https://youtu.be/UunbNeXhhaU?t=1213) - Radial gradients
-* [25:26​]() - Bezier curves
-* [27:56​]() - The animate tag in SVG
-* [29:35​]() - Using Figma
-* [31:31​]() - Bezier curve control points in Figma
-* [32:38​]() - Workflows with sketching and mockups
+* ~~[20:13​](https://youtu.be/UunbNeXhhaU?t=1213) - Radial gradients~~
+* ~~[25:26​](https://youtu.be/UunbNeXhhaU?t=1526) - Bezier curves~~ ...`Q` in `<path>` element
+* ~~[27:56​](https://youtu.be/UunbNeXhhaU?t=1676) - The animate tag in SVG~~
+* ~~[29:35​](https://youtu.be/UunbNeXhhaU?t=1775) - Using Figma~~ ...or tools like it (eg. Sketch, Adobe XD) ...or straight graphics tools (eg. Adobe Illustrator, Inkscape, (GIMP - limited SVG capabilities))
+* ~~[31:31​](https://youtu.be/UunbNeXhhaU?t=1891) - Bezier curve control points in Figma~~
+* [32:38​](https://youtu.be/UunbNeXhhaU?t=1958) - Workflows with sketching and mockups
 * [34:37​]() - Creating a pseudo scatter plot
 * [36:20​]() - Exporting SVG from Figma to HTML
 * [37:43​]() - Question: is the xmlns attribute important?
