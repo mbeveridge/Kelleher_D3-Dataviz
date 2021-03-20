@@ -22,8 +22,10 @@ It will go every Saturday for a year or more
 #### 001 : "SVG Fundamentals" (2021-03-06)
 ###### [_[forum](https://vizhub.com/forum/t/episode-1-svg-fundamentals/111)_] - [_[slides](https://docs.google.com/presentation/d/1RcUnOuJuDzNuZYX_2wqyWD2_1SHixtOT89Rr2a-6lp4/)_] - [_[myWorkings](https://vizhub.com/mbeveridge/3dc97f59afca440da2661c1d9d76bf82)_] - [_myExercise_]
 
-###### video [[1:07:18 edited](https://www.youtube.com/watch?v=UQ_kqGDM8A4)]; [[1:26:20 raw (incl chat window)](https://www.youtube.com/watch?v=qaiS88ocS2M)]
-
+<details>
+<summary> SUMMARY :
+video [[1:07:18 edited](https://www.youtube.com/watch?v=UQ_kqGDM8A4)]; [[1:26:20 raw (incl chat window)](https://www.youtube.com/watch?v=qaiS88ocS2M)]
+</summary>
 
 * [00:00](https://youtu.be/UQ_kqGDM8A4?t=0)​ - Intro to the course
 * [07:23](https://youtu.be/UQ_kqGDM8A4?t=443)​ - Intro to this episode
@@ -65,13 +67,17 @@ It will go every Saturday for a year or more
 * [62:01](https://youtu.be/UQ_kqGDM8A4?t=3721) - Question: How to communicate around this async? D3 Slack? VizHub Forum?] ...[[VizHub Forum topics for this course](https://vizhub.com/forum/c/get-it-right/10)]
 * [63:51](https://youtu.be/UQ_kqGDM8A4?t=3831) - Exercise: Make something creative with SVG Shapes!]
 
+</details>
+
 ---
 
 #### 002 : "Pseudo Visualizations" (2021-03-13)
 ###### [_[forum](https://vizhub.com/forum/t/episode-2-pseudo-visualizations/138)_] - [_[slides (blocked)](https://docs.google.com/presentation/d/1QXHKfzkY6Qh-sy2iqxFS2_V-5KrmvwYumPTRG_YBgrs/)_] - [_myWorkings_] - [_myExercise_]
 
-###### video [[1:11:18 edited](https://www.youtube.com/watch?v=UunbNeXhhaU)]; [[1:37:20 raw](https://www.youtube.com/watch?v=f5mYd-ufank)]
-
+<details>
+<summary> SUMMARY :
+video [[1:11:18 edited](https://www.youtube.com/watch?v=UunbNeXhhaU)]; [[1:37:20 raw](https://www.youtube.com/watch?v=f5mYd-ufank)]
+</summary>
 
 
 * [00:00](https://youtu.be/UunbNeXhhaU?t=0) -​ Intro to episode
@@ -109,5 +115,10 @@ It will go every Saturday for a year or more
 * [62:52​]() - Line join options
 * [63:07​]() - Line cap options
 * [63:54​]() - Question what is the precedence of inline CSS?
-* [68:58​]() - Exercise: Create pseudo visualization from a visualization taxonomy.
+* [68:58​]() - Exercise: Create pseudo visualization from a visualization taxonomy
 
+</details>
+
+---
+
+#### 003 : "Manipulating SVG graphics with JavaScript" (2021-03-20)
