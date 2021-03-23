@@ -7,11 +7,11 @@
 _"I'm very excited to begin again from the beginning. I have learned a lot from teaching this course in [2018](https://github.com/curran/dataviz-course-2018) and [2020](https://datavis.tech/datavis-2020/)"_ -- Curran Kelleher, in Episode 1 (2021-03-06)
 
 ## Tentative Calendar
-It will go every Saturday for a year or more
+[It will go every Saturday for a year or more](https://vizhub.com/blog/2021/02/20/new-livestream-series-get-it-right-in-black-and-white/)
 
 * ~~March 6: Introduction to HTML, SVG and CSS~~
 * ~~March 13: Pseudo Visualizations~~
-* March 20: Manipulating SVG graphics with JavaScript
+* ~~March 20: Manipulating SVG graphics with JavaScript~~
 * March 27: Manipulating SVG graphics with D3
 * April 4: TBD
 * April 11:
@@ -98,9 +98,9 @@ It will go every Saturday for a year or more
 * ~~[27:56​](https://youtu.be/UunbNeXhhaU?t=1676) - The animate tag in SVG~~
 * ~~[29:35​](https://youtu.be/UunbNeXhhaU?t=1775) - Using Figma~~ ...or tools like it (eg. Sketch, Adobe XD) ...or straight graphics tools (eg. Adobe Illustrator, Inkscape, (GIMP - limited SVG capabilities))
 * ~~[31:31​](https://youtu.be/UunbNeXhhaU?t=1891) - Bezier curve control points in Figma~~
-* [32:38​](https://youtu.be/UunbNeXhhaU?t=1958) - Workflows with sketching and mockups
-* [34:37​]() - Creating a pseudo scatter plot
-* [36:20​]() - Exporting SVG from Figma to HTML
+* [32:38​](https://youtu.be/UunbNeXhhaU?t=1958) - Workflows with sketching and mockups ...eg. sketch on paper, then mockup in design tool, (then D3)
+* [34:37​](https://youtu.be/UunbNeXhhaU?t=2077) - Creating a pseudo scatter plot ...[960x500 is default frame size in VizHub and blocks.org]
+* [36:20​](https://youtu.be/UunbNeXhhaU?t=2180) - Exporting SVG from Figma to HTML
 * [37:43​]() - Question: is the xmlns attribute important?
 * [39:55​]() - Creating a pseudo bar chart
 * [40:23​]() - Real time collaboration in Figma
