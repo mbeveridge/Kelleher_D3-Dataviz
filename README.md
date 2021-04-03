@@ -100,10 +100,10 @@ _"I'm very excited to begin again from the beginning. I have learned a lot from 
 * ~~[31:31​](https://youtu.be/UunbNeXhhaU?t=1891) - Bezier curve control points in Figma~~
 * [32:38​](https://youtu.be/UunbNeXhhaU?t=1958) - Workflows with sketching and mockups ...eg. sketch on paper, then mockup in design tool, (then D3)
 * [34:37​](https://youtu.be/UunbNeXhhaU?t=2077) - Creating a pseudo scatter plot ...[960x500 is default frame size in VizHub and blocks.org]
-* [36:20​](https://youtu.be/UunbNeXhhaU?t=2180) - Exporting SVG from Figma to HTML
-* [37:43​]() - Question: is the xmlns attribute important?
-* [39:55​]() - Creating a pseudo bar chart
-* [40:23​]() - Real time collaboration in Figma
+* [36:20​](https://youtu.be/UunbNeXhhaU?t=2180) - Exporting SVG from Figma to HTML ...Can then 'View page source' and copy-paste into VizHub
+* [37:43​](https://youtu.be/UunbNeXhhaU?t=2263) - Question: is the xmlns attribute important?
+* [39:55​](https://youtu.be/UunbNeXhhaU?t=2395) - Creating a pseudo bar chart
+* [40:23​](https://youtu.be/UunbNeXhhaU?t=2423) - Real time collaboration in Figma
 * [43:17​]() - Tricky Y values for bar charts
 * [44:39​]() - Pseudo horizontal bar chart
 * [45:26​]() - Adding text and selecting font in Figma
